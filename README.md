@@ -1,6 +1,7 @@
 
 **Real-Estate-Investment-Analytics**
 The main purpose of this project is to analyze real estate data to understand how location and infrastructure factors affect property prices and investment returns.
+
 👉Uses real-world data
 👉Combines ML + analytics + visualization
 👉Solves actual business problems
