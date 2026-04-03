@@ -7,19 +7,14 @@ The main purpose of this project is to analyze real estate data to understand ho
 👉Combines ML + analytics + visualization
 👉Solves actual business problems
 
-
 **REAL-TIME USES OF THIS PROJECT**
 
 **🔹 1. Property Price Prediction**
-
 👉 Helps:
 Buyers 🧑‍💼
 Sellers 🏠
-
 Real estate agents
-
 ✔ Predict fair price of a property
-
 ✔ Avoid overpricing or underpricing
 
 **🔹 2. Investment Decision Support 💰**
