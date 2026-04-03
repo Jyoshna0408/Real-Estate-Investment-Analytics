@@ -4,9 +4,7 @@
 The main purpose of this project is to analyze real estate data to understand how location and infrastructure factors affect property prices and investment returns.
 
 👉Uses real-world data
-
 👉Combines ML + analytics + visualization
-
 👉Solves actual business problems
 
 
@@ -15,9 +13,7 @@ The main purpose of this project is to analyze real estate data to understand ho
 **🔹 1. Property Price Prediction**
 
 👉 Helps:
-
 Buyers 🧑‍💼
-
 Sellers 🏠
 
 Real estate agents
