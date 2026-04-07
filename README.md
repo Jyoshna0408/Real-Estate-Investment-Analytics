@@ -8,7 +8,7 @@ The main purpose of this project is to analyze real estate data to understand ho
 
 ---
 
-**Powerbi visualization only opens if you have Microsoft Power BI installed**
+**Powerbi visualization only opens if you have Microsoft Power BI installed on your desktop.**
 
 ## REAL-TIME USES OF THIS PROJECT
 
